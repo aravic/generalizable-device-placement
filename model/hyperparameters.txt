@@ -1,0 +1,12 @@
+##########
+Note, this is only a sample of good hyperparameter setting.
+Please tune these paramaters for best performance.
+##########
+
+learning_rate => 1e-3 decayed linearly to 1e-4
+Baseline number of rounds => 10
+Number of propogation rounds 8
+Number of workers 4 to 8
+Memory penalty => 2
+Maximum memory => 8 GB
+
